@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Photonic qubits** · Team ID `VTU-QFF-HC-0045` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Photonic qubits)
+[⬆ Back to Top](#photonic-qubits)
 
 </div>
